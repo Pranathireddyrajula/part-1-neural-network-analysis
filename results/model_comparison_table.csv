@@ -1,0 +1,4 @@
+Experiment,Hidden Layers,Neurons,Learning Rate,Batch Size,Epochs,Test Accuracy
+Experiment 1,1,16,0.001,16,30,0.9825000166893005
+Experiment 2,2,"32,16",0.001,16,50,0.9775000214576721
+Experiment 3,2,"64,32",0.01,32,50,0.9725000262260437
